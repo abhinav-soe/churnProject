@@ -1,0 +1,37 @@
+{
+  "best_model": "Gradient Boosting",
+  "results": {
+    "Baseline (majority)": {
+      "accuracy": 0.7345635202271115,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 0.5,
+      "cv_roc_auc": 0.5
+    },
+    "Logistic Regression": {
+      "accuracy": 0.7374024130589071,
+      "precision": 0.5033898305084745,
+      "recall": 0.7941176470588235,
+      "f1": 0.6161825726141079,
+      "roc_auc": 0.8425611614869927,
+      "cv_roc_auc": 0.8459817329947141
+    },
+    "Random Forest": {
+      "accuracy": 0.7629524485450674,
+      "precision": 0.5418410041841004,
+      "recall": 0.6925133689839572,
+      "f1": 0.607981220657277,
+      "roc_auc": 0.8393836058797696,
+      "cv_roc_auc": 0.8436173344054337
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.808374733853797,
+      "precision": 0.678082191780822,
+      "recall": 0.5294117647058824,
+      "f1": 0.5945945945945946,
+      "roc_auc": 0.8433955927562067,
+      "cv_roc_auc": 0.8473282517390517
+    }
+  }
+}
