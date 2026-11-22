@@ -156,6 +156,3 @@ Actual scores should be reported from the results produced by your own training 
 - Add automated tests for preprocessing, training, and prediction.
 - Record experiment settings and model metrics to improve reproducibility.
 
-## License and Dataset Attribution
-
-Add the appropriate license for this repository. If you use a third-party dataset, follow its licensing terms and attribution requirements. Do not commit customer data or other sensitive information to the repository.
